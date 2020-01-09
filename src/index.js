@@ -6,7 +6,12 @@ import EyesOnMe from './components/EyesOnMe';
 
 ReactDOM.render(
   <div>
+    <br></br>
+    <br></br>
+    <br></br>
     <Keypad />
+    <br></br>
+    <br></br>
     <EyesOnMe />
   </div>,
   document.getElementById('global')
